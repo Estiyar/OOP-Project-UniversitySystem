@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.university.Main",
+            "projectName": "UniversitySystem_29f7276b"
+        },
+        {
+            "type": "java",
+            "name": "Run Main (Interactive)",
+            "request": "launch",
+            "mainClass": "com.university.Main",
+            "projectName": "UniversitySystem",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Run Demo (Auto)",
+            "request": "launch",
+            "mainClass": "com.university.Demo",
+            "projectName": "UniversitySystem",
+            "console": "integratedTerminal"
+        }
+    ]
+}
